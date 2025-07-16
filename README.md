@@ -1,6 +1,8 @@
 # Hi there 👋, I’m **Nagendra (nagendra1909)**
 
-Welcome to my GitHub profile! I’m a passionate developer building backend systems and APIs using Node.js, Express, PostgreSQL, and TypeORM.
+Welcome to my GitHub profile! I’m a passionate full-stack developer with a frontend-first approach. I specialize in building responsive, modern web applications using React, Tailwind CSS, and component libraries like ShadCN and Lucide.
+
+On the backend, I develop robust APIs and scalable systems using Node.js, Express, PostgreSQL, and TypeORM. I use GitHub for version control and collaboration, and deploy my projects with AWS and Vercel, ensuring performance and reliability at scale.
 
 ---
 
@@ -18,7 +20,6 @@ Welcome to my GitHub profile! I’m a passionate developer building backend syst
 [![Nagendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=nagendra1909&show_icons=true&theme=radical)](https://github.com/nagendra1909)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nagendra1909&layout=compact&theme=radical)](https://github.com/nagendra1909)  
 
-*These cards are powered by github-readme-stats by Anurag Hazra — a popular way to dynamically display your GitHub metrics* :contentReference[oaicite:1]{index=1}
 
 ---
 
