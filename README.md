@@ -1,14 +1,14 @@
 # Hi there 👋, I’m **Nagendra (nagendra1909)**
 
-Welcome to my GitHub profile! I’m a passionate full-stack developer with a frontend-first approach. I specialize in building responsive, modern web applications using React, Tailwind CSS, and component libraries like ShadCN and Lucide.
+Welcome to my GitHub profile! I’m a passionate full-stack developer. I specialize in building responsive, modern web applications using React, Tailwind CSS, and component libraries like ShadCN and Lucide.
 
-On the backend, I develop robust APIs and scalable systems using Node.js, Express, PostgreSQL, and TypeORM. I use GitHub for version control and collaboration, and deploy my projects with AWS and Vercel, ensuring performance and reliability at scale.
+On the backend, I develop robust APIs and scalable systems using Node.js, Express, PostgreSQL, and TypeORM , PrismaORM. I use GitHub for version control and collaboration, and deploy my projects with AWS and Vercel,Railway,Render,Netlify ensuring performance and reliability at scale.
 
 ---
 
 ## 🎯 About Me
 
-- 🔭 Currently working on: Ecommerse website.
+- 🔭 Currently working on: Ecommerse website , HRMS Dashboard
 - 🌱 Learning: Advanced Node.js, DB optimization.
 - 👯 Open to collaborating on full-stack & backend APIs
 - 📫 Reach me at: [Email](mailto:thumma00001@gmail.com) or connect on [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/nagendra-kumar-thumma/))
