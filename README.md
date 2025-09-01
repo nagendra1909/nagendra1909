@@ -1,6 +1,6 @@
 # Hi there 👋, I’m **Nagendra (nagendra1909)**
 
-Welcome to my GitHub profile! I’m a passionate full-stack developer. I specialize in building responsive, modern web applications using React, Tailwind CSS, and component libraries like ShadCN and Lucide.
+Welcome to my GitHub profile! I’m a passionate full-stack developer. I specialize in building responsive, modern web applications using React, Tailwind CSS, and component libraries like ShadCN and Lucide etc.
 
 On the backend, I develop robust APIs and scalable systems using Node.js, Express, PostgreSQL, and TypeORM , PrismaORM. I use GitHub for version control and collaboration, and deploy my projects with AWS and Vercel,Railway,Render,Netlify ensuring performance and reliability at scale.
 
